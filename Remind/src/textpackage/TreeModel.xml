@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+	<catagory name="Books for Java Programmers">
+		<book name="The Java Tutorial: A Short Course on the Basics" url="tutorial.html" />
+		<book name="The Java Tutorial Continued: The Rest of the JDK"
+			url="tutorialcont.html" />
+		<book name="The JFC Swing Tutorial: A Guide to Constructing GUIs"
+			url="swingtutorial.html" />
+		<book name="Effective Java Programming Language Guide" url="bloch.html" />
+		<book name="The Java Programming Language" url="arnold.html" />
+		<book name="The Java Developers Almanac" url="chan.html" />
+	</catagory>
+	<catagory name="Books for Java Implementers">
+		<book name="The Java Virtual Machine Specification" url="vm.html" />
+		<book name="The Java Language Specification" url="jls.html" />
+	</catagory>
+</Library>

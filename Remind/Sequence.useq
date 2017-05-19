@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.9" icons="true">  
+  <object id="1" language="java" name="mindmap.view.menu.RemindInsertMenu.InsertionTopicListener" project="ReMind" 
+    file="/ReMind/src/mindmap/view/menu/RemindInsertMenu.java" binary="false" label="insertionTopicListener" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="82" y="0"/>    
+    <execution id="2">      
+      <position height="96" width="0" x="0" y="297"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="24" width="0" x="0" y="345"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="2064" width="0" x="0" y="488"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="1992" width="0" x="0" y="536"/>    
+    </execution>  
+  </object>  
+  <object id="66" language="java" name="mindmap.view.center.RemindMindMapView" project="ReMind" 
+    file="/ReMind/src/mindmap/view/center/RemindMindMapView.java" binary="false" label="mindMapView" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="9">      
+      <position height="24" width="0" x="0" y="572"/>    
+    </execution>    
+    <execution id="11">      
+      <position height="24" width="0" x="0" y="620"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="24" width="0" x="0" y="1100"/>    
+    </execution>    
+    <execution id="33">      
+      <position height="24" width="0" x="0" y="1148"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="24" width="0" x="0" y="1856"/>    
+    </execution>    
+    <execution id="55">      
+      <position height="24" width="0" x="0" y="2240"/>    
+    </execution>  
+  </object>  
+  <object id="67" language="java" name="javax.swing.JTabbedPane" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="13">      
+      <position height="24" width="0" x="0" y="668"/>    
+    </execution>  
+  </object>  
+  <object id="68" language="java" name="java.util.List" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" type="interface" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="15">      
+      <position height="24" width="0" x="0" y="716"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="24" width="0" x="0" y="764"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="24" width="0" x="0" y="812"/>    
+    </execution>  
+  </object>  
+  <object id="69" language="java" name="mindmap.view.center.DiagramPanel" project="ReMind" 
+    file="/ReMind/src/mindmap/view/center/DiagramPanel.java" binary="false" label="zoomPanel" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="21">      
+      <position height="24" width="0" x="0" y="860"/>    
+    </execution>    
+    <execution id="53">      
+      <position height="24" width="0" x="0" y="2192"/>    
+    </execution>    
+    <execution id="65">      
+      <position height="24" width="0" x="0" y="2480"/>    
+    </execution>  
+  </object>  
+  <object id="70" language="java" name="diagram.Topic" project="ReMind" file="/ReMind/src/diagram/Topic.java" 
+    binary="false" label="newNode" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="23">      
+      <position height="24" width="0" x="0" y="908"/>    
+    </execution>    
+    <execution id="63">      
+      <position height="24" width="0" x="0" y="2432"/>    
+    </execution>  
+  </object>  
+  <object id="71" language="java" name="diagram.Topic" project="ReMind" file="/ReMind/src/diagram/Topic.java" 
+    binary="false" label="selectedTopic" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="25">      
+      <position height="24" width="0" x="0" y="956"/>    
+    </execution>    
+    <execution id="27">      
+      <position height="24" width="0" x="0" y="1004"/>    
+    </execution>    
+    <execution id="41">      
+      <position height="24" width="0" x="0" y="1904"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="24" width="0" x="0" y="1952"/>    
+    </execution>    
+    <execution id="47">      
+      <position height="24" width="0" x="0" y="2048"/>    
+    </execution>    
+    <execution id="57">      
+      <position height="24" width="0" x="0" y="2288"/>    
+    </execution>    
+    <execution id="59">      
+      <position height="24" width="0" x="0" y="2336"/>    
+    </execution>  
+  </object>  
+  <object id="72" language="java" name="java.awt.Point" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="29">      
+      <position height="24" width="0" x="0" y="1052"/>    
+    </execution>  
+  </object>  
+  <object id="73" language="java" name="javax.swing.JTabbedPane" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="35">      
+      <position height="24" width="0" x="0" y="1196"/>    
+    </execution>  
+  </object>  
+  <object id="74" language="java" name="main.MindMapController" project="ReMind" 
+    file="/ReMind/src/main/MindMapController.java" binary="false" label="controller" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="37">      
+      <position height="588" width="0" x="0" y="1244"/>    
+    </execution>    
+    <execution id="51">      
+      <position height="24" width="0" x="0" y="2144"/>    
+    </execution>  
+  </object>  
+  <object id="79" language="java" name="java.util.HashMap" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" label="topicDaoList" type="class" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="76">      
+      <position height="24" width="0" x="0" y="1268"/>    
+    </execution>  
+  </object>  
+  <object id="80" language="java" name="diagram.TopicDAO" project="ReMind" file="/ReMind/src/diagram/TopicDAO.java" 
+    binary="false" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="78">      
+      <position height="492" width="0" x="0" y="1316"/>    
+    </execution>    
+    <execution id="82">      
+      <position height="24" width="0" x="0" y="1364"/>    
+    </execution>  
+  </object>  
+  <object id="93" language="java" name="javax.swing.tree.DefaultMutableTreeNode" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" label="newNode1" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="84">      
+      <position height="24" width="0" x="0" y="1400"/>    
+    </execution>  
+  </object>  
+  <object id="94" language="java" name="javax.swing.tree.DefaultTreeModel" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" label="topicDAO" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="86">      
+      <position height="144" width="0" x="0" y="1448"/>    
+    </execution>    
+    <execution id="98">      
+      <position height="24" width="0" x="0" y="1544"/>    
+    </execution>  
+  </object>  
+  <object id="99" language="java" name="javax.swing.tree.MutableTreeNode" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" label="parent" type="interface" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="96">      
+      <position height="24" width="0" x="0" y="1472"/>    
+    </execution>  
+  </object>  
+  <object id="100" language="java" name="javax.swing.tree.DefaultMutableTreeNode" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" label="node" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="88">      
+      <position height="72" width="0" x="0" y="1616"/>    
+    </execution>  
+  </object>  
+  <object id="103" language="java" name="java.util.Vector" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" label="children" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="102">      
+      <position height="24" width="0" x="0" y="1640"/>    
+    </execution>  
+  </object>  
+  <object id="104" language="java" name="java.util.List" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" label="nodeList" type="interface" 
+    autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="90">      
+      <position height="24" width="0" x="0" y="1712"/>    
+    </execution>  
+  </object>  
+  <object id="105" language="java" name="java.io.PrintStream" project="ReMind" 
+    file="C:/Program Files/Java/jdk1.8.0_60/jre/lib/rt.jar" binary="true" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="92">      
+      <position height="24" width="0" x="0" y="1760"/>    
+    </execution>  
+  </object>  
+  <object id="106" language="java" name="mindmap.view.bottom.RemindNoteView" project="ReMind" 
+    file="/ReMind/src/mindmap/view/bottom/RemindNoteView.java" binary="false" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="45">      
+      <position height="24" width="0" x="0" y="2000"/>    
+    </execution>  
+  </object>  
+  <object id="107" language="java" name="diagram.Line" project="ReMind" file="/ReMind/src/diagram/Line.java" 
+    binary="false" label="newJoin" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="49">      
+      <position height="24" width="0" x="0" y="2096"/>    
+    </execution>  
+  </object>  
+  <object id="108" language="java" name="mindmap.view.bottom.RemindNoteView" project="ReMind" 
+    file="/ReMind/src/mindmap/view/bottom/RemindNoteView.java" binary="false" type="class" autoSize="true">    
+    <position height="0" width="0" x="0" y="0"/>    
+    <execution id="61">      
+      <position height="24" width="0" x="0" y="2384"/>    
+    </execution>  
+  </object>  
+  <object id="109" language="java" name="mindmap.view.menu.RemindInsertMenu" project="ReMind" 
+    file="/ReMind/src/mindmap/view/menu/RemindInsertMenu.java" binary="false" label="remindInsertMenu" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="82" y="0"/>  
+  </object>  
+  <object id="110" language="java" name="main.MindMapController" project="ReMind" 
+    file="/ReMind/src/main/MindMapController.java" binary="false" label="mindMapController" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="462" y="0"/>  
+  </object>  
+  <message id="3" operation="InsertionTopicListener()" asynchronous="false">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" operation="actionPerformed(java.awt.event.ActionEvent):void" asynchronous="false">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="8" operation="getScrollPane():java.util.List&lt;JScrollPane&gt;" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="9"/>  
+  </message>  
+  <message id="10" operation="getTapPane():javax.swing.JTabbedPane" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="12" operation="getSelectedIndex():int" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="14" operation="get(int):E" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="15"/>  
+  </message>  
+  <message id="16" operation="getViewport():javax.swing.JViewport" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="18" operation="getComponent(int):java.awt.Component" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="20" operation="getSelectedTopic():diagram.Topic" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="21"/>  
+  </message>  
+  <message id="22" operation="Topic(java.lang.String,java.awt.Point)" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="24" operation="getPoint():java.awt.Point" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="26" operation="getPoint():java.awt.Point" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="27"/>  
+  </message>  
+  <message id="28" operation="Point(int,int)" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="30" operation="getPanelNum(int):int" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="32" operation="getTapPane():javax.swing.JTabbedPane" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="33"/>  
+  </message>  
+  <message id="34" operation="getSelectedIndex():int" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="36" operation="add(int,diagram.Topic,diagram.Topic):void" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="38" operation="getNoteView():mindmap.view.bottom.RemindNoteView" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="39"/>  
+  </message>  
+  <message id="40" operation="getNote():diagram.Note" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="42" operation="getMemo():diagram.Memo" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="44" operation="setText(diagram.Note,diagram.Memo):void" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="45"/>  
+  </message>  
+  <message id="46" operation="setSelected(boolean):void" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="47"/>  
+  </message>  
+  <message id="48" operation="Line(diagram.Topic,diagram.Topic)" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="49"/>  
+  </message>  
+  <message id="50" operation="insert(int,diagram.Line):void" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="51"/>  
+  </message>  
+  <message id="52" operation="setSelectedTopic(diagram.Topic):void" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="53"/>  
+  </message>  
+  <message id="54" operation="getNoteView():mindmap.view.bottom.RemindNoteView" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>  
+  <message id="56" operation="getNote():diagram.Note" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="57"/>  
+  </message>  
+  <message id="58" operation="getMemo():diagram.Memo" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="59"/>  
+  </message>  
+  <message id="60" operation="getText(diagram.Note,diagram.Memo):void" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="61"/>  
+  </message>  
+  <message id="62" operation="setSelected(boolean):void" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="63"/>  
+  </message>  
+  <message id="64" operation="repaint():void" asynchronous="false">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="65"/>  
+  </message>  
+  <message id="75" operation="get(java.lang.Object):V" asynchronous="false">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="76"/>  
+  </message>  
+  <message id="77" operation="insert(diagram.Topic,diagram.Topic):void" asynchronous="false">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="78"/>  
+  </message>  
+  <message id="81" operation="search(diagram.Topic):javax.swing.tree.DefaultMutableTreeNode" asynchronous="false">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="82"/>  
+  </message>  
+  <message id="83" operation="DefaultMutableTreeNode(java.lang.Object)" asynchronous="false">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="84"/>  
+  </message>  
+  <message id="85" 
+    operation="insertNodeInto(javax.swing.tree.MutableTreeNode,javax.swing.tree.MutableTreeNode,int):void" 
+    asynchronous="false">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="86"/>  
+  </message>  
+  <message id="87" operation="getChildCount():int" asynchronous="false">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="88"/>  
+  </message>  
+  <message id="89" operation="add(E):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="90"/>  
+  </message>  
+  <message id="91" operation="println(java.lang.Object):void" asynchronous="false">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="92"/>  
+  </message>  
+  <message id="95" operation="insert(javax.swing.tree.MutableTreeNode,int):void" asynchronous="false">    
+    <end type="SOURCE" refId="86"/>    
+    <end type="TARGET" refId="96"/>  
+  </message>  
+  <message id="97" operation="nodesWereInserted(javax.swing.tree.TreeNode,int[]):void" asynchronous="false">    
+    <end type="SOURCE" refId="86"/>    
+    <end type="TARGET" refId="98"/>  
+  </message>  
+  <message id="101" operation="size():int" asynchronous="false">    
+    <end type="SOURCE" refId="88"/>    
+    <end type="TARGET" refId="102"/>  
+  </message>
+</sequence-diagram>
